@@ -1,0 +1,35 @@
+4
+McDonald's
+4
+McCombo
+10
+McPuisor
+6
+Placinta cu visine
+7
+Coca-Cola
+5
+Pizza-Hut
+3
+Pizza Quatro Formaggi
+24
+Margherita
+17
+Customizare Pizza
+25
+KFC
+3
+Hot Booster
+6
+Sos de usturoi
+4
+Snack-Box
+11
+Mesopotamia
+3
+Souflaki
+15
+Gyros
+18
+Shaorma la farfurie
+22
