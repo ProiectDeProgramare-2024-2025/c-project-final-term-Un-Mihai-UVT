@@ -1,0 +1,17 @@
+<Numar restaurante>
+<Nume restaurant 1>
+<Numar comenzi restaurant 1>
+<Nume comanda 1> //Daca o comanda are numele "Customizare Pizza" utilizatorul va putea sa customizeze o pizza daca alege aceasta comanda
+<Pret>
+<Nume comanda 2>
+<Pret>
+....
+<Nume comanda n>
+<Pret>
+<Nume restaurant 2>
+<Numar comenzi restaurant 2>
+<Comanda 1>
+<Pret>
+<Comanda 2>
+<Pret>
+....
